@@ -1,7 +1,5 @@
 # Final Project for the Course
 
-### [Solution (Screenshots of program execution explained)](./Solution_explained.md)
-
 ## Part 1: Building an End-to-End Streaming Pipeline
 
 ### Step-by-Step Instructions
